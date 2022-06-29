@@ -7,7 +7,7 @@ package com.mycompany.mavenproject1;
 
 /**
  *
- * @author gurpr
+ * 
  */
 public class Mavenproject1 {
 
