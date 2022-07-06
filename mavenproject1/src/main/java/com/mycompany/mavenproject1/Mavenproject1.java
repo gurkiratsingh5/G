@@ -6,8 +6,7 @@
 package com.mycompany.mavenproject1;
 
 /**
- *@@ this is a happy branch file 
- * ghghf
+ *@@ this is a happy branch file
  */
 public class Mavenproject1 {
    
@@ -15,5 +14,6 @@ public class Mavenproject1 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Hello Happy");
+        System.out.println("Hello kamal");
     }
 }
