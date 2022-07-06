@@ -6,7 +6,8 @@
 package com.mycompany.mavenproject1;
 
 /**
-
+qwerwrhu
+*
  */
 public class Mavenproject1 {
 
