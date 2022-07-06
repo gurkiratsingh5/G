@@ -6,8 +6,7 @@
 package com.mycompany.mavenproject1;
 
 /**
- *@@ this is done
- * @author gurkiratsingh
+ *@@ this is branch file 
  */
 public class Mavenproject1 {
    
