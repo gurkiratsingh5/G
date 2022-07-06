@@ -7,6 +7,7 @@ package com.mycompany.mavenproject1;
 
 /**
  *@@ this is a happy branch file 
+ * ghghf
  */
 public class Mavenproject1 {
    
