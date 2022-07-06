@@ -6,7 +6,7 @@
 package com.mycompany.mavenproject1;
 
 /**
-Branch code here
+
  */
 public class Mavenproject1 {
 
